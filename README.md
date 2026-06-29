@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Rimsha 👋
 
-<!--
-**rimshashafique99/rimshashafique99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Engineer — I build production SaaS & MVPs end-to-end
 
-Here are some ideas to get you started:
+I build and ship production web applications from backend architecture and API design through integrations and deployment. Over the past year at an AI-first startup, I shipped four production SaaS products used by real people owning the backend across all of them, from real-time systems and secure authentication to subscription billing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about turning messy business logic into clean, maintainable systems, and I work closely with mobile and frontend teams to ship without cutting corners.
+
+-  Currently building production SaaS at an AI-first startup
+-  Backend-focused full-stack: Node.js, Express, TypeScript, React, Next.js
+-  Open to Full-Stack Engineer roles — remote or on-site
+-  Based in Pakistan, working with teams across the UK & Europe
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript (ES6+), TypeScript
+
+**Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.IO), JWT, OAuth, OTP, RBAC
+
+**Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui
+
+**Databases:** MongoDB, PostgreSQL, Supabase
+
+**Payments & Integrations:** Stripe, Apple IAP, Firebase, AI API integration
+
+**Cloud & Tools:** Vercel, Render, Railway, GitHub, Postman, Cursor, Claude Code
+
+---
+
+## 📫 Get in Touch
+
+- **Portfolio:** [rimsha-shafique-portfolio.vercel.app](https://rimsha-shafique-portfolio.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/rimshashafique](https://www.linkedin.com/in/rimshashafique)
+- **Email:** rimshashafique1997@gmail.com
+
+---
+
+<sub>Open to full-stack and backend engineering opportunities — feel free to reach out.</sub>
