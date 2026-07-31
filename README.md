@@ -2,14 +2,15 @@
 
 **Full-Stack Engineer | Shipping production SaaS end-to-end, from architecture to deployment**
 
-I build and ship production web apps — backend architecture, API design, React/Next.js frontends, third-party integrations, and deployment. Over the past year at an early-stage AI startup, I owned backend architecture across multiple live SaaS products: real-time systems, secure authentication, and subscription billing.
+I build and ship production web apps backend architecture, API design, React/Next.js frontends, third-party integrations, and deployment. Over the past year at an early-stage AI startup, I owned backend architecture across multiple live SaaS products: real-time systems, secure authentication, and subscription billing.
 
 I turn messy business logic into clean, maintainable systems, and I like wiring LLMs into full-stack products from prompt-engineered API integrations to agentic workflows with LangChain/LangGraph.
 
-- 💼 Open to Full-Stack Engineer roles — remote or on-site
+- 💼 Open to Full-Stack Engineer roles, remote or on-site
 - 🌍 Based in Pakistan, working with teams across the UK & Europe
 - 💬 Always up for a chat about SaaS architecture or AI integrations
-- 📫 [rimsha-shafiqueportfolio.vercel.app](https://rimsha-shafiqueportfolio.vercel.app)
+- 📫 [rimsha-shafique-portfolio.vercel.app](https://rimsha-shafique-portfolio.vercel.app/)
+- 📫 [rimsha-shafique-linkedIn](https://www.linkedin.com/in/rimshashafique/)
 
 ---
 
