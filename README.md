@@ -1,40 +1,38 @@
-# Hi, I'm Rimsha 👋
+### Hi, I'm Rimsha 👋
 
-### Full-Stack Engineer — I build production SaaS & MVPs end-to-end
+**Full-Stack Engineer | Shipping production SaaS end-to-end, from architecture to deployment**
 
-I build and ship production web applications from backend architecture and API design through integrations and deployment. Over the past year at an AI-first startup, I shipped four production SaaS products used by real people owning the backend across all of them, from real-time systems and secure authentication to subscription billing.
+I build and ship production web apps — backend architecture, API design, React/Next.js frontends, third-party integrations, and deployment. Over the past year at an early-stage AI startup, I owned backend architecture across multiple live SaaS products: real-time systems, secure authentication, and subscription billing.
 
-I care about turning messy business logic into clean, maintainable systems, and I work closely with mobile and frontend teams to ship without cutting corners.
+I turn messy business logic into clean, maintainable systems, and I like wiring LLMs into full-stack products from prompt-engineered API integrations to agentic workflows with LangChain/LangGraph.
 
--  Currently building production SaaS at an AI-first startup
--  Backend-focused full-stack: Node.js, Express, TypeScript, React, Next.js
--  Open to Full-Stack Engineer roles — remote or on-site
--  Based in Pakistan, working with teams across the UK & Europe
+- 💼 Open to Full-Stack Engineer roles — remote or on-site
+- 🌍 Based in Pakistan, working with teams across the UK & Europe
+- 💬 Always up for a chat about SaaS architecture or AI integrations
+- 📫 [rimsha-shafiqueportfolio.vercel.app](https://rimsha-shafiqueportfolio.vercel.app)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Skills
 
 **Languages:** JavaScript (ES6+), TypeScript
 
-**Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.IO), JWT, OAuth, OTP, RBAC
+**Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.IO), JWT, OAuth, RBAC
 
-**Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui
+**Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, Context API, Zustand
 
 **Databases:** MongoDB, PostgreSQL, Supabase
 
-**Payments & Integrations:** Stripe, Apple IAP, Firebase, AI API integration
+**AI / LLM Integration:** LLM API Integration (OpenAI, Grok, Groq, Claude, Whisper), LangChain, LangGraph, Prompt Engineering
 
-**Cloud & Tools:** Vercel, Render, Railway, GitHub, Postman, Cursor, Claude Code
+**Payments & Integrations:** Stripe, Apple IAP, Firebase
 
----
+**Testing & Quality:** Vitest, React Testing Library, Supertest
 
-## 📫 Get in Touch
+**Cloud & DevOps:** Docker, CI/CD (GitHub Actions), Vercel, Render, Railway
 
-- **Portfolio:** [rimsha-shafique-portfolio.vercel.app](https://rimsha-shafique-portfolio.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/rimshashafique](https://www.linkedin.com/in/rimshashafique)
-- **Email:** rimshashafique1997@gmail.com
+**Tools & Practices:** Git, GitHub, Postman, Agile/Cross-Functional Collaboration, Cursor, Claude Code
 
 ---
 
-<sub>Open to full-stack and backend engineering opportunities — feel free to reach out.</sub>
+📌 Check out my projects below!
