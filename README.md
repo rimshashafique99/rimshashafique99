@@ -1,39 +1,52 @@
-### Hi, I'm Rimsha 👋
+# Hi, I'm Rimsha 👋
 
-**Full-Stack Engineer | Shipping production SaaS end-to-end, from architecture to deployment**
+### Full-Stack Developer | Building Production SaaS & AI-Powered Applications
 
-I build and ship production web apps backend architecture, API design, React/Next.js frontends, third-party integrations, and deployment. Over the past year at an early-stage AI startup, I owned backend architecture across multiple live SaaS products: real-time systems, secure authentication, and subscription billing.
+I build and ship full-stack web applications, working across backend development, database design, API integrations, frontend development, and deployment.
 
-I turn messy business logic into clean, maintainable systems, and I like wiring LLMs into full-stack products from prompt-engineered API integrations to agentic workflows with LangChain/LangGraph.
+I have professional experience building production applications at an early-stage AI startup, contributing to four live products across different domains, including a task marketplace, habit-tracking application, property management platform, and AI transcription SaaS.
 
-- 💼 Open to Full-Stack Engineer roles, remote or on-site
-- 🌍 Based in Pakistan, working with teams across the UK & Europe
-- 💬 Always up for a chat about SaaS architecture or AI integrations
-- 📫 [rimsha-shafique-portfolio.vercel.app](https://rimsha-shafique-portfolio.vercel.app/)
-- 📫 [rimsha-shafique-linkedIn](https://www.linkedin.com/in/rimshashafique/)
+I enjoy solving real product problems, designing maintainable backend systems, and turning complex business requirements into reliable software.
 
----
+I'm also interested in building AI-powered applications by integrating LLM APIs, streaming responses, and agentic workflows into practical products.
 
-### 🛠️ Skills
+### 💼 What I've Worked On
+
+- **Full-Stack Development:** Built production applications using React, Next.js, Node.js, Express.js and TypeScript.
+- **Backend Engineering:** Implemented REST APIs, authentication, RBAC, payment workflows, database optimization and real-time functionality.
+- **Third-Party Integrations:** Worked with Stripe, Apple Sign-In, Apple In-App Purchases and Firebase Cloud Messaging.
+- **AI-Powered Applications:** Integrated OpenAI, Groq and Anthropic APIs, including Whisper-based transcription and streaming responses.
+
+### 🛠️ Technical Skills
 
 **Languages:** JavaScript (ES6+), TypeScript
 
-**Backend:** Node.js, Express.js, REST APIs, WebSockets (Socket.IO), JWT, OAuth, RBAC
+**Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui, Framer Motion
 
-**Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui, Framer Motion, Context API, Zustand
+**Backend:** Node.js, Express.js, REST APIs, Socket.IO, JWT, OAuth, RBAC
 
-**Databases:** MongoDB, PostgreSQL, Supabase
+**Databases:** PostgreSQL, MongoDB, Supabase
 
-**AI / LLM Integration:** LLM API Integration (OpenAI, Grok, Groq, Claude, Whisper), LangChain, LangGraph, Prompt Engineering
+**AI & LLM:** OpenAI API, Groq API, Anthropic API, Whisper, LangChain, LangGraph, Prompt Engineering
 
-**Payments & Integrations:** Stripe, Apple IAP, Firebase
+**Integrations:** Stripe, Apple In-App Purchases, Firebase Cloud Messaging
 
-**Testing & Quality:** Vitest, React Testing Library, Supertest
+**Testing:** Vitest, React Testing Library, Supertest
 
-**Cloud & DevOps:** Docker, CI/CD (GitHub Actions), Vercel, Render, Railway
+**Tools:** Git, GitHub, Postman, Cursor, Claude Code
 
-**Tools & Practices:** Git, GitHub, Postman, Agile/Cross-Functional Collaboration, Cursor, Claude Code
+### 📈 Engineering Highlights
 
----
+- Contributed to **4 live products** during my time at an early-stage AI startup.
+- Helped reduce payment processing failures by **15%** through improved Stripe webhook handling.
+- Improved booking workflow efficiency by **40%** through database query optimization and dashboard improvements.
 
-📌 Check out my projects below!
+### 🤝 Let's Connect
+
+I'm open to Full-Stack Developer opportunities, remote roles, and Islamabad-based opportunities.
+
+- 🌐 **Portfolio:** [rimsha-shafique-portfolio.vercel.app](https://rimsha-shafique-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/rimshashafique](https://www.linkedin.com/in/rimshashafique/)
+- 💻 **GitHub:** [github.com/rimshashafique99](https://github.com/rimshashafique99)
+
+Always happy to connect with developers, founders, and teams building interesting products.
